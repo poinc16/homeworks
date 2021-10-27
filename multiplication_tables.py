@@ -19,6 +19,7 @@ def multiplication_tables(number):
     print(f'{number} x 8 = {number*8}')
     print(f'{number} x 9 = {number*9}')
     print(f'{number} x 10 = {number*10}')
+    return
 
 
 n = int(input())
